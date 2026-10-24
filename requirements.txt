@@ -16,3 +16,4 @@ pytest-cov
 httpx
 testcontainers[postgres]
 respx
+psycopg2
